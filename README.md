@@ -2,10 +2,10 @@
 Here is a grocery store website concept designed in Canva.
 
 ## Homepage
-![Slide 1](Page1.png)
+![Slide 1](1.png)
 
 ## Category & Deals
-![Slide 2](Page2.png)
+![Slide 2](2.png)
 
 ## Why Choose Us
-![Slide 3](Page3.png)
+![Slide 3](3.png)
